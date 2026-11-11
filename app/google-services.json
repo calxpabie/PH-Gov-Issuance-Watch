@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "38941117392",
+    "project_id": "ph-gov-issuance-watch",
+    "storage_bucket": "ph-gov-issuance-watch.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38941117392:android:cf0a2ad2a57ccefdc607d5",
+        "android_client_info": {
+          "package_name": "ph.govissuancewatch.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhjCvLbwHMuG8mBxRA_17ygMRacoI8ke4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

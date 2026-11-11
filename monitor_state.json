@@ -1,0 +1,3691 @@
+{
+  "baselined_sources": [
+    "BIR 2026 RMC",
+    "COA",
+    "CSC",
+    "DBM Budget Circulars",
+    "DBM Circular Letters",
+    "DBM Local Budget Circulars",
+    "DILG",
+    "DOF"
+  ],
+  "items": {
+    "http://www.dbm.gov.ph/wp-content/uploads/Issuances/2006/Budget-Circular/BUDGET-CIRCULAR-NO-2006-3.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2006-3",
+      "published": null,
+      "title": "Budget Circular No. 2006-3"
+    },
+    "http://www.dbm.gov.ph/wp-content/uploads/Issuances/2008/Budget%20Circular/BC2008-2/bc2008-2.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2008-2",
+      "published": null,
+      "title": "Budget Circular No. 2008-2"
+    },
+    "http://www.dbm.gov.ph/wp-content/uploads/Issuances/2008/Budget%20Circular/BC2008-3/bc2008-3.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2008-3",
+      "published": null,
+      "title": "Budget Circular No. 2008-3"
+    },
+    "http://www.dbm.gov.ph/wp-content/uploads/Issuances/2008/Budget%20Circular/BC2008-4/bc2008-4.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2008-4",
+      "published": null,
+      "title": "Budget Circular No. 2008-4"
+    },
+    "http://www.dbm.gov.ph/wp-content/uploads/Issuances/2008/Budget%20Circular/BC2008-5/bc2008-5.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2008-5",
+      "published": null,
+      "title": "Budget Circular No. 2008-5"
+    },
+    "http://www.dbm.gov.ph/wp-content/uploads/Issuances/2009/Budget%20Circular/BC2009-1/p1.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2009-1",
+      "published": null,
+      "title": "Budget Circular No. 2009-1"
+    },
+    "http://www.dbm.gov.ph/wp-content/uploads/Issuances/2009/Budget%20Circular/BC2009-3/BC2009-3.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2009-3",
+      "published": null,
+      "title": "Budget Circular No. 2009-3"
+    },
+    "http://www.dbm.gov.ph/wp-content/uploads/Issuances/2009/Budget%20Circular/BC2009-4/bc2009-4.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2009-4",
+      "published": null,
+      "title": "Budget Circular No. 2009-4"
+    },
+    "http://www.dbm.gov.ph/wp-content/uploads/Issuances/2009/Budget%20Circular/BC2009-4A/bc2009-4A.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2009-4A",
+      "published": null,
+      "title": "Budget Circular No. 2009-4A"
+    },
+    "http://www.dbm.gov.ph/wp-content/uploads/Issuances/2009/Budget%20Circular/BC2009-5/BC2009-5.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2009-5",
+      "published": null,
+      "title": "Budget Circular No. 2009-5"
+    },
+    "http://www.dbm.gov.ph/wp-content/uploads/Issuances/2010/Budget%20Circular/BC2010-1/bc2010-1.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2010-1",
+      "published": null,
+      "title": "Budget Circular No. 2010-1"
+    },
+    "http://www.dbm.gov.ph/wp-content/uploads/Issuances/2010/Budget%20Circular/BC2010-2/Annex%20A.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": null,
+      "published": null,
+      "title": "Annex A"
+    },
+    "http://www.dbm.gov.ph/wp-content/uploads/Issuances/2010/Budget%20Circular/BC2010-2/Annex%20B.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": null,
+      "published": null,
+      "title": "Annex B"
+    },
+    "http://www.dbm.gov.ph/wp-content/uploads/Issuances/2010/Budget%20Circular/BC2010-2/Annex%20C.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": null,
+      "published": null,
+      "title": "Annex C"
+    },
+    "http://www.dbm.gov.ph/wp-content/uploads/Issuances/2010/Budget%20Circular/BC2010-2/bc2010-2.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2010-2",
+      "published": null,
+      "title": "Budget Circular No. 2010-2"
+    },
+    "http://www.dbm.gov.ph/wp-content/uploads/Issuances/2010/Budget%20Circular/BC2010-3/bc2010-3.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2010-3",
+      "published": null,
+      "title": "Budget Circular No. 2010-3"
+    },
+    "http://www.dbm.gov.ph/wp-content/uploads/Issuances/2011/Budget%20Circular/BC2011-1/bc2011-1.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2011-1",
+      "published": null,
+      "title": "Budget Circular No. 2011-1"
+    },
+    "http://www.dbm.gov.ph/wp-content/uploads/Issuances/2011/Budget%20Circular/BC2011-2/bc2011-2.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2011-2",
+      "published": null,
+      "title": "Budget Circular No. 2011-2"
+    },
+    "http://www.dbm.gov.ph/wp-content/uploads/Issuances/2011/Budget%20Circular/BC2011-4/bc2011-4.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2011-4",
+      "published": null,
+      "title": "Budget Circular No. 2011-4"
+    },
+    "http://www.dbm.gov.ph/wp-content/uploads/Issuances/2011/Budget%20Circular/BC2011-5/bc2011-5.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2011-5",
+      "published": null,
+      "title": "Budget Circular No. 2011-5"
+    },
+    "http://www.dbm.gov.ph/wp-content/uploads/Issuances/2012/Budget%20Circular/BC2012-1/bc2012-1.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2012-1",
+      "published": null,
+      "title": "Budget Circular No. 2012-1"
+    },
+    "http://www.dbm.gov.ph/wp-content/uploads/Issuances/2012/Budget%20Circular/BC2012-2/BC2012-2.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2012-2",
+      "published": null,
+      "title": "Budget Circular No. 2012-2"
+    },
+    "http://www.dbm.gov.ph/wp-content/uploads/Issuances/2012/Budget%20Circular/BC2012-3.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2012-3",
+      "published": null,
+      "title": "Budget Circular No. 2012-3"
+    },
+    "http://www.dbm.gov.ph/wp-content/uploads/Issuances/2012/Budget%20Circular/BC2012-4.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2012-4",
+      "published": null,
+      "title": "Budget Circular No. 2012-4"
+    },
+    "http://www.dbm.gov.ph/wp-content/uploads/Issuances/2013/Budget%20Circular/BC2013-1.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2013-1",
+      "published": null,
+      "title": "Budget Circular No. 2013-1"
+    },
+    "http://www.dbm.gov.ph/wp-content/uploads/Issuances/2013/Budget%20Circular/BC2013-1A.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2013-1A",
+      "published": null,
+      "title": "Budget Circular No. 2013-1A"
+    },
+    "http://www.dbm.gov.ph/wp-content/uploads/Issuances/2013/Budget%20Circular/BC2013-2.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2013-2",
+      "published": null,
+      "title": "Budget Circular No. 2013-2"
+    },
+    "http://www.dbm.gov.ph/wp-content/uploads/Issuances/2013/Budget%20Circular/BC2013-3.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2013-3",
+      "published": null,
+      "title": "Budget Circular No. 2013-3"
+    },
+    "http://www.dbm.gov.ph/wp-content/uploads/Issuances/2013/Budget%20Circular/BC2013-4.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2013-4",
+      "published": null,
+      "title": "Budget Circular No. 2013-4"
+    },
+    "http://www.dbm.gov.ph/wp-content/uploads/Issuances/2017/Budget Circular/BUDGET CIRCULAR NO. 2017-1.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2017-1",
+      "published": null,
+      "title": "Budget Circular No. 2017-1"
+    },
+    "http://www.dbm.gov.ph/wp-content/uploads/Issuances/2017/Budget Circular/BUDGET CIRCULAR NO. 2017-2.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2017-2",
+      "published": null,
+      "title": "Budget Circular No. 2017-2"
+    },
+    "http://www.dbm.gov.ph/wp-content/uploads/Issuances/2017/Budget Circular/BUDGET CIRCULAR NO. 2017-3.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2017-3",
+      "published": null,
+      "title": "Budget Circular No. 2017-3"
+    },
+    "http://www.dbm.gov.ph/wp-content/uploads/Issuances/2017/Budget Circular/BUDGET CIRCULAR NO. 2017-4.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2017-4",
+      "published": null,
+      "title": "Budget Circular No. 2017-4"
+    },
+    "http://www.dbm.gov.ph/wp-content/uploads/Issuances/2017/Budget Circular/BUDGET CIRCULAR NO. 2017-5.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2017-5",
+      "published": null,
+      "title": "Budget Circular No. 2017-5"
+    },
+    "http://www.dbm.gov.ph/wp-content/uploads/Issuances/2018/Budget%20Circular/BUDGET-CIRCULAR-NO-2018-2.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2018-2",
+      "published": null,
+      "title": "Budget Circular No. 2018-2"
+    },
+    "http://www.dbm.gov.ph/wp-content/uploads/Issuances/2018/Budget%20Circular/BUDGET-CIRCULAR-NO-2018-3.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2018-3",
+      "published": null,
+      "title": "Budget Circular No. 2018-3"
+    },
+    "http://www.dbm.gov.ph/wp-content/uploads/Issuances/2018/Budget%20Circular/BUDGET-CIRCULAR-NO-2018-4.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2018-4",
+      "published": null,
+      "title": "Budget Circular No. 2018-4"
+    },
+    "http://www.dbm.gov.ph/wp-content/uploads/Issuances/2018/Budget%20Circular/BUDGET-CIRCULAR-NO-2018-5.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2018-5",
+      "published": null,
+      "title": "Budget Circular No. 2018-5"
+    },
+    "https://www.bir.gov.ph/2026-Revenue-Memorandum-Circulars?label=2026&type=PAGE": {
+      "agency": null,
+      "first_seen": null,
+      "number": null,
+      "published": null,
+      "title": ""
+    },
+    "https://www.bir.gov.ph/2026-Revenue-Memorandum-Circulars?label=2026&type=PAGE#no-action": {
+      "agency": null,
+      "first_seen": null,
+      "number": null,
+      "published": null,
+      "title": ""
+    },
+    "https://www.dbm.gov.ph/images/BUDGET-CIRCULAR-NO-2020-5.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2020-5",
+      "published": null,
+      "title": "Budget Circular No. 2020-5"
+    },
+    "https://www.dbm.gov.ph/images/Budget%20Circular%20No.%202024-3.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2024-3",
+      "published": null,
+      "title": "Budget Circular No. 2024-3"
+    },
+    "https://www.dbm.gov.ph/index.php/budget-circulars?view=article&id=2371:government-directory&catid=136": {
+      "agency": null,
+      "first_seen": null,
+      "number": null,
+      "published": null,
+      "title": ""
+    },
+    "https://www.dbm.gov.ph/index.php/budget-circulars?view=article&id=3078:budget-circular-no-2024-4&catid=348": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2024-4",
+      "published": null,
+      "title": "Budget Circular No. 2024-4"
+    },
+    "https://www.dbm.gov.ph/index.php/budget-circulars?view=article&id=3128:budget-circular-no-2024-5&catid=348": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2024-5",
+      "published": null,
+      "title": "Budget Circular No. 2024-5"
+    },
+    "https://www.dbm.gov.ph/index.php/budget-circulars?view=article&id=3135:budget-circular-no-2024-6&catid=348": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2024-6",
+      "published": null,
+      "title": "Budget Circular No. 2024-6"
+    },
+    "https://www.dbm.gov.ph/index.php/budget-circulars?view=article&id=3136:budget-circular-no-2024-7&catid=348": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2024-7",
+      "published": null,
+      "title": "Budget Circular No. 2024-7"
+    },
+    "https://www.dbm.gov.ph/index.php/budget-circulars?view=article&id=3274:budget-circular-no-2025-1&catid=386": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2025-1",
+      "published": "2025-03-12",
+      "title": "Budget Circular No. 2025-1"
+    },
+    "https://www.dbm.gov.ph/index.php/budget-circulars?view=article&id=3716:budget-circular-no-2025-2&catid=386": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2025-2",
+      "published": "2025-11-19",
+      "title": "Budget Circular No. 2025-2"
+    },
+    "https://www.dbm.gov.ph/index.php/budget-circulars?view=article&id=3742:budget-circular-no-2025-3&catid=386": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2025-3",
+      "published": "2025-12-15",
+      "title": "Budget Circular No. 2025-3"
+    },
+    "https://www.dbm.gov.ph/index.php/budget-circulars?view=article&id=3749:budget-circular-no-2025-4&catid=386": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2025-4",
+      "published": "2025-12-15",
+      "title": "Budget Circular No. 2025-4"
+    },
+    "https://www.dbm.gov.ph/index.php/budget-circulars?view=article&id=4360:budget-circular-no-2026-1&catid=465": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2026-1",
+      "published": "2026-11-04",
+      "title": "Budget Circular No. 2026-1"
+    },
+    "https://www.dbm.gov.ph/index.php/budget-circulars?view=category&id=386": {
+      "agency": null,
+      "first_seen": null,
+      "number": null,
+      "published": null,
+      "title": ""
+    },
+    "https://www.dbm.gov.ph/index.php/budget-circulars?view=category&id=465": {
+      "agency": null,
+      "first_seen": null,
+      "number": null,
+      "published": null,
+      "title": ""
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1425:circular-letter-no-2023-10&catid=37": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2023-10",
+      "published": "2023-08-09",
+      "title": "Circular Letter No. 2023-10"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1426:circular-letter-no-2023-9&catid=37": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2023-9",
+      "published": "2023-06-27",
+      "title": "Circular Letter No. 2023-9"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1427:circular-letter-no-2023-8&catid=37": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2023-8",
+      "published": "2023-06-08",
+      "title": "Circular Letter No. 2023-8"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1428:circular-letter-no-2023-7&catid=37": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2023-7",
+      "published": "2023-05-17",
+      "title": "Circular Letter No. 2023-7"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1429:circular-letter-no-2023-6&catid=37": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2023-6",
+      "published": "2023-03-31",
+      "title": "Circular Letter No. 2023-6"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1430:circular-letter-no-2023-5&catid=37": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2023-5",
+      "published": "2023-03-08",
+      "title": "Circular Letter No. 2023-5"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1431:circular-letter-no-2023-4&catid=37": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2023-4",
+      "published": "2023-02-22",
+      "title": "Circular Letter No. 2023-4"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1432:circular-letter-no-2023-3&catid=37": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2023-3",
+      "published": "2023-02-16",
+      "title": "Circular Letter No. 2023-3"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1433:circular-letter-no-2023-2&catid=37": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2023-2",
+      "published": "2023-01-17",
+      "title": "Circular Letter No. 2023-2"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1434:circular-letter-no-2023-1&catid=37": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2023-1",
+      "published": "2023-01-17",
+      "title": "Circular Letter No. 2023-1"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1435:circular-letter-no-2022-15&catid=36": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2022-15",
+      "published": "2022-11-17",
+      "title": "Circular Letter No. 2022-15"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1436:circular-letter-no-2022-14&catid=36": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2022-14",
+      "published": "2022-10-28",
+      "title": "Circular Letter No. 2022-14"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1437:circular-letter-no-2022-13&catid=36": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2022-13",
+      "published": "2022-10-19",
+      "title": "Circular Letter No. 2022-13"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1438:circular-letter-no-2022-12&catid=36": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2022-12",
+      "published": "2022-10-07",
+      "title": "Circular Letter No. 2022-12"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1439:circular-letter-no-2022-11&catid=36": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2022-11",
+      "published": "2022-08-16",
+      "title": "Circular Letter No. 2022-11"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1440:circular-letter-no-2022-10&catid=36": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2022-10",
+      "published": "2022-08-16",
+      "title": "Circular Letter No. 2022-10"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1441:circular-letter-no-2022-9&catid=36": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2022-9",
+      "published": "2022-08-16",
+      "title": "Circular Letter No. 2022-9"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1446:circular-letter-no-2022-8&catid=36": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2022-8",
+      "published": "2022-04-22",
+      "title": "Circular Letter No. 2022-8"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1447:circular-letter-no-2022-7&catid=36": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2022-7",
+      "published": "2022-04-20",
+      "title": "Circular Letter No. 2022-7"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1448:circular-letter-no-2022-6&catid=36": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2022-6",
+      "published": "2022-04-06",
+      "title": "Circular Letter No. 2022-6"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1449:circular-letter-no-2022-5&catid=36": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2022-5",
+      "published": "2022-02-16",
+      "title": "Circular Letter No. 2022-5"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1450:circular-letter-no-2022-4&catid=36": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2022-4",
+      "published": "2022-02-15",
+      "title": "Circular Letter No. 2022-4"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1451:circular-letter-no-2022-3&catid=36": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2022-3",
+      "published": "2022-02-02",
+      "title": "Circular Letter No. 2022-3"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1452:circular-letter-no-2022-2&catid=36": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2022-2",
+      "published": "2022-01-19",
+      "title": "Circular Letter No. 2022-2"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1453:circular-letter-no-2022-1&catid=36": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2022-1",
+      "published": "2022-01-13",
+      "title": "Circular Letter No. 2022-1"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1454:circular-letter-no-2021-13&catid=35": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2021-13",
+      "published": "2021-12-31",
+      "title": "Circular Letter No. 2021-13"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1455:circular-letter-no-2021-12&catid=35": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2021-12",
+      "published": "2021-11-24",
+      "title": "Circular Letter No. 2021-12"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1456:circular-letter-no-2021-11&catid=35": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2021-11",
+      "published": "2021-10-28",
+      "title": "Circular Letter No. 2021-11"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1457:circular-letter-no-2021-10&catid=35": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2021-10",
+      "published": "2021-10-15",
+      "title": "Circular Letter No. 2021-10"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1458:circular-letter-no-2021-9&catid=35": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2021-9",
+      "published": "2021-10-14",
+      "title": "Circular Letter No. 2021-9"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1459:circular-letter-no-2021-8&catid=35": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2021-8",
+      "published": "2021-08-18",
+      "title": "Circular Letter No. 2021-8"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1460:circular-letter-no-2021-7&catid=35": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2021-7",
+      "published": "2021-07-01",
+      "title": "Circular Letter No. 2021-7"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1461:circular-letter-no-2021-6&catid=35": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2021-6",
+      "published": "2021-03-31",
+      "title": "Circular Letter No. 2021-6"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1462:circular-letter-no-2021-5&catid=35": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2021-5",
+      "published": "2021-03-09",
+      "title": "Circular Letter No. 2021-5"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1463:circular-letter-no-2021-4&catid=35": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2021-4",
+      "published": "2021-03-03",
+      "title": "Circular Letter No. 2021-4"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1464:circular-letter-no-2021-3&catid=35": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2021-3",
+      "published": "2021-02-19",
+      "title": "Circular Letter No. 2021-3"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1465:circular-letter-no-2021-2&catid=35": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2021-2",
+      "published": "2021-02-09",
+      "title": "Circular Letter No. 2021-2"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1466:circular-letter-no-2021-1&catid=35": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2021-1",
+      "published": "2021-01-11",
+      "title": "Circular Letter No. 2021-1"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1467:circular-letter-no-2020-18&catid=34": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2020-18",
+      "published": "2020-12-29",
+      "title": "Circular Letter No. 2020-18"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1468:circular-letter-no-2020-17&catid=34": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2020-17",
+      "published": "2020-12-23",
+      "title": "Circular Letter No. 2020-17"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1469:circular-letter-no-2020-16&catid=34": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2020-16",
+      "published": "2020-11-27",
+      "title": "Circular Letter No. 2020-16"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1470:circular-letter-no-2020-15&catid=34": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2020-15",
+      "published": "2020-11-17",
+      "title": "Circular Letter No. 2020-15"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1471:circular-letter-no-2020-14&catid=34": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2020-14",
+      "published": "2020-11-16",
+      "title": "Circular Letter No. 2020-14"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1472:circular-letter-no-2020-13&catid=34": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2020-13",
+      "published": "2020-10-26",
+      "title": "Circular Letter No. 2020-13"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1473:circular-letter-no-2020-12&catid=34": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2020-12",
+      "published": "2020-10-23",
+      "title": "Circular Letter No. 2020-12"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1474:circular-letter-no-2020-11&catid=34": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2020-11",
+      "published": "2020-08-20",
+      "title": "Circular Letter No. 2020-11"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1475:circular-letter-no-2020-10&catid=34": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2020-10",
+      "published": "2020-07-10",
+      "title": "Circular Letter No. 2020-10"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1476:circular-letter-no-2020-9&catid=34": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2020-9",
+      "published": "2020-06-11",
+      "title": "Circular Letter No. 2020-9"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1477:circular-letter-no-2020-8&catid=34": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2020-8",
+      "published": "2020-05-26",
+      "title": "Circular Letter No. 2020-8"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1478:circular-letter-no-2020-7&catid=34": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2020-7",
+      "published": "2020-04-16",
+      "title": "Circular Letter No. 2020-7"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1479:circular-letter-no-2020-6&catid=34": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2020-6",
+      "published": "2020-03-30",
+      "title": "Circular Letter No. 2020-6"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1480:circular-letter-no-2020-5&catid=34": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2020-5",
+      "published": "2020-03-09",
+      "title": "Circular Letter No. 2020 - 5"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1481:circular-letter-no-2020-4&catid=34": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2020-4",
+      "published": "2020-02-27",
+      "title": "Circular Letter No. 2020 - 4"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1482:circular-letter-no-2020-3&catid=34": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2020-3",
+      "published": "2020-01-20",
+      "title": "Circular Letter No. 2020 - 3"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1483:circular-letter-no-2020-2&catid=34": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2020–2",
+      "published": "2020-01-08",
+      "title": "Circular Letter No. 2020 – 2"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1484:circular-letter-no-2020-1&catid=34": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2020-1",
+      "published": "2020-01-02",
+      "title": "Circular Letter No. 2020-1"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1485:circular-letter-no-2019-16&catid=33": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2019-16",
+      "published": "2019-12-10",
+      "title": "Circular Letter No. 2019-16"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1486:circular-letter-no-2019-15&catid=33": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2019-15",
+      "published": "2019-11-29",
+      "title": "Circular Letter No. 2019-15"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1487:circular-letter-no-2019-14&catid=33": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2019-14",
+      "published": "2019-11-27",
+      "title": "Circular Letter No. 2019-14"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1488:circular-letter-no-2019-13&catid=33": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2019-13",
+      "published": "2019-10-31",
+      "title": "Circular Letter No. 2019-13"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1489:circular-letter-no-2019-12&catid=33": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2019-12",
+      "published": "2019-10-10",
+      "title": "Circular Letter No. 2019-12"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1490:circular-letter-no-2019-11&catid=33": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2019-11",
+      "published": "2019-07-25",
+      "title": "Circular Letter No. 2019-11"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1491:circular-letter-no-2019-10&catid=33": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2019-10",
+      "published": "2019-07-15",
+      "title": "Circular Letter No. 2019-10"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1492:circular-letter-no-2019-9&catid=33": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2019-9",
+      "published": "2019-07-11",
+      "title": "Circular Letter No. 2019-9"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1493:circular-letter-no-2019-8&catid=33": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2019-8",
+      "published": "2019-07-03",
+      "title": "Circular Letter No. 2019-8"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1494:circular-letter-no-2019-7a&catid=33": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2019-7A",
+      "published": "2019-03-29",
+      "title": "Circular Letter No. 2019 - 7A"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1495:circular-letter-no-2019-7&catid=33": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2019-7",
+      "published": "2019-03-26",
+      "title": "Circular Letter No. 2019-7"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1496:circular-letter-no-2019-6&catid=33": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2019-6",
+      "published": "2019-03-13",
+      "title": "Circular Letter No. 2019-6"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1497:circular-letter-no-2019-5&catid=33": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2019-5",
+      "published": "2019-01-21",
+      "title": "Circular Letter No. 2019-5"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1498:circular-letter-no-2019-4&catid=33": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2019-4",
+      "published": "2019-01-14",
+      "title": "Circular Letter No. 2019-4"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1499:circular-letter-no-2019-3&catid=33": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2019-3",
+      "published": "2019-01-04",
+      "title": "Circular Letter No. 2019-3"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1500:circular-letter-no-2018-14&catid=32": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2018-14",
+      "published": "2018-12-28",
+      "title": "Circular Letter No. 2018 - 14"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1501:circular-letter-no-2019-2&catid=33": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2019-2",
+      "published": "2019-01-04",
+      "title": "Circular Letter No. 2019-2"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1502:circular-letter-no-2019-1&catid=33": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2019-1",
+      "published": "2019-01-03",
+      "title": "Circular Letter No. 2019-1"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1503:circular-letter-no-2018-13&catid=32": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2018-13",
+      "published": "2018-11-22",
+      "title": "Circular Letter No. 2018-13"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1504:circular-letter-no-2018-12&catid=32": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2018-12",
+      "published": "2018-11-21",
+      "title": "Circular Letter No. 2018-12"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1505:circular-letter-no-2018-11&catid=32": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2018-11",
+      "published": "2018-11-21",
+      "title": "Circular Letter No. 2018-11"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1506:circular-letter-no-2018-10&catid=32": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2018-10",
+      "published": "2018-11-08",
+      "title": "Circular Letter No. 2018-10"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1507:circular-letter-no-2018-9&catid=32": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2018-9",
+      "published": "2018-09-06",
+      "title": "Circular Letter No. 2018-9"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1508:circular-letter-no-2018-8&catid=32": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2018-8",
+      "published": "2018-07-30",
+      "title": "Circular Letter No. 2018-8"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1509:circular-letter-no-2018-7&catid=32": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2018-7",
+      "published": "2018-03-19",
+      "title": "Circular Letter No. 2018-7"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1510:circular-letter-no-2018-6&catid=32": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2018-6",
+      "published": "2018-03-14",
+      "title": "Circular Letter No. 2018-6"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1511:circular-letter-no-2018-5&catid=32": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2018-5",
+      "published": "2018-02-20",
+      "title": "Circular Letter No. 2018-5"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1512:circular-letter-no-2018-4&catid=32": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2018-4",
+      "published": "2018-01-24",
+      "title": "Circular Letter No. 2018-4"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1513:circular-letter-no-2018-3&catid=32": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2018-3",
+      "published": "2018-01-16",
+      "title": "Circular Letter No. 2018-3"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1514:circular-letter-no-2018-2&catid=32": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2018-2",
+      "published": "2018-01-08",
+      "title": "Circular Letter No. 2018-2"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=1515:circular-letter-no-2018-1&catid=32": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2018-1",
+      "published": "2018-01-03",
+      "title": "Circular Letter No. 2018-1"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=2308:circular-letter-no-2023-12&catid=37": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2023-12",
+      "published": "2023-09-15",
+      "title": "Circular Letter No. 2023-12"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=2365:circular-letter-no-2023-13&catid=37": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2023-13",
+      "published": "2023-10-02",
+      "title": "Circular Letter No. 2023-13"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=2371:government-directory&catid=136": {
+      "agency": null,
+      "first_seen": null,
+      "number": null,
+      "published": null,
+      "title": ""
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=2426:circular-letter-no-2023-14&catid=37": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2023-14",
+      "published": "2023-10-27",
+      "title": "Circular Letter No. 2023-14"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=2487:circular-letter-no-2023-15&catid=37": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2023-15",
+      "published": "2023-11-20",
+      "title": "Circular Letter No. 2023-15"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=2527:circular-letter-no-2023-16&catid=37": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2023-16",
+      "published": "2023-12-21",
+      "title": "Circular Letter No. 2023-16"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=2567:circular-letter-no-2024-1&catid=335": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2024-1",
+      "published": "2024-01-31",
+      "title": "Circular Letter No. 2024-1"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=2569:circular-letter-no-2024-2&catid=335": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2024-2",
+      "published": "2024-02-01",
+      "title": "Circular Letter No. 2024-2"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=2579:circular-letter-no-2024-3&catid=335": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2024-3",
+      "published": "2024-02-15",
+      "title": "Circular Letter No. 2024-3"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=2592:circular-letter-no-2024-4&catid=335": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2024-4",
+      "published": "2024-02-14",
+      "title": "Circular Letter No. 2024-4"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=2609:circular-letter-no-2024-5&catid=335": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2024-5",
+      "published": "2024-02-27",
+      "title": "Circular Letter No. 2024-5"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=2610:circular-letter-no-2024-6&catid=335": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2024-6",
+      "published": "2024-02-26",
+      "title": "Circular Letter No. 2024-6"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=2613:circular-letter-no-2024-7&catid=335": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2024-7",
+      "published": "2024-02-27",
+      "title": "Circular Letter No. 2024-7"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=2637:circular-letter-no-2024-8&catid=335": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2024-8",
+      "published": "2024-03-07",
+      "title": "Circular Letter No. 2024-8"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=2645:circular-letter-no-2024-9&catid=335": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2024-9",
+      "published": "2024-03-07",
+      "title": "Circular Letter No. 2024-9"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=2728:circular-letter-no-2024-10&catid=335": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2024-10",
+      "published": "2024-03-20",
+      "title": "Circular Letter No. 2024-10"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=2810:circular-letter-no-2024-11&catid=335": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2024-11",
+      "published": "2024-05-24",
+      "title": "Circular Letter No. 2024-11"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=2845:circular-letter-no-2024-12&catid=335": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2024-12",
+      "published": "2024-06-28",
+      "title": "Circular Letter No. 2024-12"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=2968:circular-letter-no-2024-13&catid=335": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2024-13",
+      "published": "2024-09-17",
+      "title": "Circular Letter No. 2024-13"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=3059:circular-letter-no-2024-14&catid=335": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2024-14",
+      "published": "2024-10-28",
+      "title": "Circular Letter No. 2024-14"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=3066:circular-letter-no-2024-15&catid=335": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2024-15",
+      "published": "2024-10-29",
+      "title": "Circular Letter No. 2024 - 15"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=3077:circular-letter-no-2024-16&catid=335": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2024-16",
+      "published": "2024-11-12",
+      "title": "Circular Letter No. 2024-16"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=3122:circular-letter-no-2024-17&catid=335": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2024-17",
+      "published": "2024-12-04",
+      "title": "Circular Letter No. 2024-17"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=3170:circular-letter-no-2025-1&catid=373": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2025-1",
+      "published": "2025-01-16",
+      "title": "Circular Letter No. 2025-1"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=3216:circular-letter-no-2025-2&catid=373": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2025-2",
+      "published": "2025-02-10",
+      "title": "Circular Letter No. 2025-2"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=3231:circular-letter-no-2025-3&catid=373": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2025-3",
+      "published": "2025-02-18",
+      "title": "Circular Letter No. 2025-3"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=3254:circular-letter-no-2025-4&catid=373": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2025-4",
+      "published": "2025-03-06",
+      "title": "Circular Letter No. 2025-4"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=3303:circular-letter-no-2025-5&catid=373": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2025-5",
+      "published": "2025-04-03",
+      "title": "Circular Letter No. 2025-5"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=3347:circular-letter-no-2025-6&catid=373": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2025-6",
+      "published": "2025-05-13",
+      "title": "Circular Letter No. 2025-6"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=3357:circular-letter-no-2025-7&catid=373": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2025-7",
+      "published": "2025-05-16",
+      "title": "Circular Letter No. 2025-7"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=3566:circular-letter-no-2025-8&catid=373": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2025-8",
+      "published": "2025-08-28",
+      "title": "Circular Letter No. 2025-8"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=3593:circular-letter-no-2025-9&catid=373": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2025-9",
+      "published": "2025-09-19",
+      "title": "Circular Letter No. 2025-9"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=3671:circular-letter-no-2025-10&catid=373": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2025-10",
+      "published": "2025-10-30",
+      "title": "Circular Letter No. 2025-10"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=3678:circular-letter-no-2025-11&catid=373": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2025-11",
+      "published": "2025-11-03",
+      "title": "Circular Letter No. 2025-11"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=3719:circular-letter-no-2025-12&catid=373": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2025-12",
+      "published": "2025-11-25",
+      "title": "Circular Letter No. 2025-12"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=3750:circular-letter-no-2025-13&catid=373": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2025-13",
+      "published": "2025-12-17",
+      "title": "Circular Letter No. 2025-13"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=3795:circular-letter-no-2026-1&catid=429": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2026-1",
+      "published": "2026-01-15",
+      "title": "Circular Letter No. 2026-1"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=3819:circular-letter-no-2026-2&catid=429": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2026-2",
+      "published": "2026-01-29",
+      "title": "Circular Letter No. 2026-2"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=3884:circular-letter-no-2026-3&catid=429": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2026-3",
+      "published": "2026-02-24",
+      "title": "Circular Letter No. 2026-3"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=3889:circular-letter-no-2026-4&catid=429": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2026-4",
+      "published": "2026-03-16",
+      "title": "Circular Letter No. 2026-4"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=3901:circular-letter-no-2026-5&catid=429": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2026-5",
+      "published": "2026-03-23",
+      "title": "Circular Letter No. 2026-5"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=3948:circular-letter-no-2026-6&catid=429": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2026-6",
+      "published": "2026-04-15",
+      "title": "Circular Letter No. 2026-6"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=3964:circular-letter-no-2026-7&catid=429": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2026-7",
+      "published": "2026-04-29",
+      "title": "Circular Letter No. 2026-7"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=4033:circular-letter-no-2026-8&catid=429": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2026-8",
+      "published": "2026-06-10",
+      "title": "Circular Letter No. 2026-8"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=4083:circular-letter-no-2026-9&catid=429": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2026-9",
+      "published": "2026-07-10",
+      "title": "Circular Letter No. 2026-9"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=4288:circular-letter-no-2026-10&catid=429": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2026-10",
+      "published": "2026-09-30",
+      "title": "Circular Letter No. 2026-10"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=4307:circular-letter-no-2026-11&catid=429": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2026-11",
+      "published": "2026-10-05",
+      "title": "Circular Letter No. 2026-11"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=4315:circular-letter-no-2026-12&catid=429": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2026-12",
+      "published": "2026-10-07",
+      "title": "Circular Letter No. 2026-12"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=4326:circular-letter-no-2026-13&catid=429": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2026-13",
+      "published": "2026-10-21",
+      "title": "Circular Letter No. 2026-13"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=4334:circular-letter-no-2026-14&catid=429": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2026-14",
+      "published": "2026-10-26",
+      "title": "Circular Letter No. 2026-14"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=4371:circular-letter-no-2026-15&catid=429": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2026-15",
+      "published": "2026-11-09",
+      "title": "Circular Letter No. 2026-15"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=article&id=78:circular-letter-no-2023-11&catid=37": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2023-11",
+      "published": "2023-08-15",
+      "title": "Circular Letter No. 2023-11"
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=category&id=32": {
+      "agency": null,
+      "first_seen": null,
+      "number": null,
+      "published": null,
+      "title": ""
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=category&id=33": {
+      "agency": null,
+      "first_seen": null,
+      "number": null,
+      "published": null,
+      "title": ""
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=category&id=335": {
+      "agency": null,
+      "first_seen": null,
+      "number": null,
+      "published": null,
+      "title": ""
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=category&id=34": {
+      "agency": null,
+      "first_seen": null,
+      "number": null,
+      "published": null,
+      "title": ""
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=category&id=35": {
+      "agency": null,
+      "first_seen": null,
+      "number": null,
+      "published": null,
+      "title": ""
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=category&id=36": {
+      "agency": null,
+      "first_seen": null,
+      "number": null,
+      "published": null,
+      "title": ""
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=category&id=373": {
+      "agency": null,
+      "first_seen": null,
+      "number": null,
+      "published": null,
+      "title": ""
+    },
+    "https://www.dbm.gov.ph/index.php/circular-letters?view=category&id=429": {
+      "agency": null,
+      "first_seen": null,
+      "number": null,
+      "published": null,
+      "title": ""
+    },
+    "https://www.dbm.gov.ph/index.php/issuances/dbm-issuances/local-budget-circulars/273-avps/2898-instructional-video-no-1-registration-and-approval": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "1",
+      "published": null,
+      "title": "Download Instructional Video No. 1 - Registration and Approval"
+    },
+    "https://www.dbm.gov.ph/index.php/issuances/dbm-issuances/local-budget-circulars/273-avps/2899-instructional-video-no-2-download-components-and-ebudget-installer": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "2",
+      "published": null,
+      "title": "Download Instructional Video No. 2 - Download Components and eBudget Installer"
+    },
+    "https://www.dbm.gov.ph/index.php/issuances/dbm-issuances/local-budget-circulars/273-avps/2900-instructional-video-no-3-lgu-ebudget-installation": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "3",
+      "published": null,
+      "title": "Download Instructional Video No. 3 - LGU eBudget Installation"
+    },
+    "https://www.dbm.gov.ph/index.php/issuances/dbm-issuances/local-budget-circulars/273-avps/2901-instructional-video-no-4-updating-ebudget": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "4",
+      "published": null,
+      "title": "Download Instructional Video No. 4 - Updating eBudget"
+    },
+    "https://www.dbm.gov.ph/index.php/issuances/dbm-issuances/local-budget-circulars/273-avps/2902-instructional-video-no-5-logging-in-set-up-users-and-reference-data": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "5",
+      "published": null,
+      "title": "Download Instructional Video No. 5 - Logging In, Set-up Users, and Reference Data"
+    },
+    "https://www.dbm.gov.ph/index.php/issuances/dbm-issuances/local-budget-circulars/273-avps/2903-instructional-video-no-6-backup-and-restore": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "6",
+      "published": null,
+      "title": "Download Instructional Video No. 6 - Backup and Restore"
+    },
+    "https://www.dbm.gov.ph/index.php/issuances/dbm-issuances/local-budget-circulars/273-avps/2904-instructional-video-no-7-tips": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "7",
+      "published": null,
+      "title": "Download Instructional Video No. 7 - Tips"
+    },
+    "https://www.dbm.gov.ph/index.php/issuances/dbm-issuances/local-budget-circulars/273-avps/2905-instructional-video-no-8-esre-submission": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "8",
+      "published": null,
+      "title": "Download Instructional Video No. 8 - eSRE Submission"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=1334:local-budget-circular-no-118&catid=81": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "118",
+      "published": "2019-01-15",
+      "title": "Local Budget Circular No. 118"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=1335:local-budget-circular-no-119&catid=81": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "119",
+      "published": "2019-07-15",
+      "title": "Local Budget Circular No. 119"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=1336:local-budget-circular-no-119-a&catid=81": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "119",
+      "published": "2019-08-08",
+      "title": "Local Budget Circular No. 119-A"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=1337:local-budget-circular-no-120&catid=81": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "120",
+      "published": "2019-08-15",
+      "title": "Local Budget Circular No. 120"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=1338:local-budget-circular-116-b&catid=81": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": null,
+      "published": "2019-09-25",
+      "title": "Local Budget Circular 116-B"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=1339:local-budget-circular-no-121&catid=82": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "121",
+      "published": "2020-01-24",
+      "title": "Local Budget Circular No. 121"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=1340:local-budget-circular-no-122&catid=82": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "122",
+      "published": "2020-01-31",
+      "title": "Local Budget Circular No. 122"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=1341:local-budget-circular-no-123&catid=82": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "123",
+      "published": "2020-02-18",
+      "title": "Local Budget Circular No. 123"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=1342:local-budget-circular-no-124&catid=82": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "124",
+      "published": "2020-03-26",
+      "title": "Local Budget Circular No. 124"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=1343:local-budget-circular-no-125&catid=82": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "125",
+      "published": "2020-04-07",
+      "title": "Local Budget Circular No. 125"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=1344:local-budget-circular-no-126&catid=82": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "126",
+      "published": "2020-04-13",
+      "title": "Local Budget Circular No. 126"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=1345:local-budget-circular-no-127&catid=82": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "127",
+      "published": "2020-06-11",
+      "title": "Local Budget Circular No. 127"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=1346:local-budget-circular-no-119-b&catid=81": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "119",
+      "published": "2020-09-04",
+      "title": "Local Budget Circular No. 119-B"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=1347:local-budget-circular-no-122-a&catid=82": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "122",
+      "published": "2020-09-08",
+      "title": "Local Budget Circular No. 122-A"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=1348:local-budget-circular-no-129&catid=82": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "128",
+      "published": "2020-09-17",
+      "title": "Local Budget Circular No. 128"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=1349:local-budget-circular-no-119-c&catid=82": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "119",
+      "published": "2020-09-29",
+      "title": "Local Budget Circular No. 119-C"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=1350:local-budget-circular-no-120-a&catid=82": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "120",
+      "published": "2020-09-29",
+      "title": "Local Budget Circular No. 120-A"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=1351:local-budget-circular-129&catid=82": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "129",
+      "published": "2020-09-29",
+      "title": "Local Budget Circular No. 129"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=1352:local-budget-circular-no-130&catid=82": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "130",
+      "published": "2020-11-19",
+      "title": "Local Budget Circular No. 130"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=1353:local-budget-circular-no-131&catid=83": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "131",
+      "published": "2021-01-08",
+      "title": "Local Budget Circular No. 131"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=1354:local-budget-circular-no-132&catid=83": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "132",
+      "published": "2021-01-06",
+      "title": "Local Budget Circular No. 132"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=1355:local-budget-circular-no-133&catid=83": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "133",
+      "published": "2021-01-18",
+      "title": "Local Budget Circular No. 133"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=1356:local-budget-circular-no-134&catid=83": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "134",
+      "published": "2021-01-20",
+      "title": "Local Budget Circular No. 134"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=1357:local-budget-circular-no-135&catid=83": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "135",
+      "published": "2021-01-20",
+      "title": "Local Budget Circular No. 135"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=1358:local-budget-circular-no-135-a&catid=83": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "135",
+      "published": "2021-01-22",
+      "title": "Local Budget Circular No. 135-A"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=1359:local-budget-circular-no-136&catid=83": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "136",
+      "published": "2021-03-30",
+      "title": "Local Budget Circular No. 136"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=1368:local-budget-circular-no-137&catid=83": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "137",
+      "published": "2021-07-13",
+      "title": "Local Budget Circular No. 137"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=1372:local-budget-circular-no-138&catid=83": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "138",
+      "published": "2021-08-06",
+      "title": "Local Budget Circular No. 138"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=1375:local-budget-circular-no-139&catid=83": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "139",
+      "published": "2021-08-12",
+      "title": "Local Budget Circular No. 139"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=1377:local-budget-circular-no-140&catid=83": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "140",
+      "published": "2021-12-28",
+      "title": "Local Budget Circular No. 140"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=1387:local-budget-circular-no-141&catid=83": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "141",
+      "published": "2021-12-28",
+      "title": "Local Budget Circular No. 141"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=1388:local-budget-circular-no-142&catid=84": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "142",
+      "published": "2022-01-24",
+      "title": "Local Budget Circular No. 142"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=1389:local-budget-circular-no-143&catid=84": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "143",
+      "published": "2022-01-03",
+      "title": "Local Budget Circular No. 143"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=1391:local-budget-circular-no-144&catid=84": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "144",
+      "published": "2022-02-28",
+      "title": "Local Budget Circular No. 144"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=1392:local-budget-circular-no-145&catid=84": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "145",
+      "published": "2022-03-02",
+      "title": "Local Budget Circular No. 145"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=1394:local-budget-circular-no-140-a&catid=84": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "140",
+      "published": "2022-03-29",
+      "title": "Local Budget Circular No. 140-A"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=1395:local-budget-circular-no-141-a&catid=84": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "141",
+      "published": "2022-03-29",
+      "title": "Local Budget Circular No. 141-A"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=1399:local-budget-circular-no-142-a&catid=84": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "142",
+      "published": "2022-04-28",
+      "title": "Local Budget Circular No. 142-A"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=1400:local-budget-circular-no-145-a&catid=84": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "145",
+      "published": "2022-04-29",
+      "title": "Local Budget Circular No. 145-A"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=1401:local-budget-circular-no-146&catid=84": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "146",
+      "published": "2022-07-07",
+      "title": "Local Budget Circular No. 146"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=1402:local-budget-circular-no-147&catid=84": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "147",
+      "published": "2022-07-29",
+      "title": "Local Budget Circular No. 147"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=1403:local-budget-circular-no-142-b&catid=84": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "142",
+      "published": "2022-08-16",
+      "title": "Local Budget Circular No. 142-B"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=1405:local-budget-circular-no-142-c&catid=84": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "142",
+      "published": "2022-10-21",
+      "title": "Local Budget Circular No. 142-C"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=1406:local-budget-circular-no-142-d&catid=84": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "142",
+      "published": "2022-11-15",
+      "title": "Local Budget Circular No. 142-D"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=1408:local-budget-circular-no-142-e&catid=84": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "142",
+      "published": "2022-12-16",
+      "title": "Local Budget Circular No. 142-E"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=1409:local-budget-circular-no-148&catid=84": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "148",
+      "published": "2022-12-23",
+      "title": "Local Budget Circular No. 148"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=2371:government-directory&catid=136": {
+      "agency": null,
+      "first_seen": null,
+      "number": null,
+      "published": null,
+      "title": ""
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=2575:local-budget-circular-no-154&catid=338": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "154",
+      "published": "2024-02-06",
+      "title": "Local Budget Circular No. 154"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=2590:local-budget-circular-no-155&catid=338": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "155",
+      "published": "2024-02-15",
+      "title": "Local Budget Circular No. 155"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=2744:local-budget-circular-no-156&catid=338": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "156",
+      "published": "2024-04-15",
+      "title": "Local Budget Circular No. 156"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=2777:local-budget-circular-no-157&catid=338": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "157",
+      "published": "2024-05-03",
+      "title": "Local Budget Circular No. 157"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=2862:local-budget-circular-no-158&catid=338": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "158",
+      "published": "2024-07-11",
+      "title": "Local Budget Circular No. 158"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=2874:local-budget-circular-no-159&catid=338": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "159",
+      "published": "2024-07-16",
+      "title": "Local Budget Circular No. 159"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=2927:local-budget-circular-no-160&catid=338": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "160",
+      "published": "2024-08-12",
+      "title": "Local Budget Circular No. 160"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=3242:local-budget-circular-no-161&catid=382": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "161",
+      "published": "2025-02-24",
+      "title": "Local Budget Circular No. 161"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=3244:local-budget-circular-no-162&catid=382": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "162",
+      "published": "2025-02-24",
+      "title": "Local Budget Circular No. 162"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=3252:local-budget-circular-no-163&catid=382": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "163",
+      "published": "2025-02-27",
+      "title": "Local Budget Circular No. 163"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=3376:local-budget-circular-no-164&catid=382": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "164",
+      "published": "2025-05-19",
+      "title": "Local Budget Circular No. 164"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=3507:local-budget-circular-no-165&catid=382": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "165",
+      "published": "2025-07-18",
+      "title": "Local Budget Circular No. 165"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=3850:local-budget-circular-no-166&catid=434": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "166",
+      "published": "2026-02-06",
+      "title": "Local Budget Circular No. 166"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=3853:local-budget-circular-no-167&catid=434": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "167",
+      "published": "2026-02-06",
+      "title": "Local Budget Circular No. 167"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=3855:local-budget-circular-no-168&catid=434": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "168",
+      "published": "2026-02-16",
+      "title": "Local Budget Circular No. 168"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=3856:local-budget-circular-no-169&catid=434": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "169",
+      "published": "2026-02-16",
+      "title": "Local Budget Circular No. 169"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=3998:local-budget-circular-no-171&catid=434": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "171",
+      "published": "2026-05-18",
+      "title": "Local Budget Circular No. 171"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=4034:local-budget-circular-no-170&catid=434": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "170",
+      "published": "2026-05-04",
+      "title": "Local Budget Circular No. 170"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=article&id=4099:local-budget-circular-no-172&catid=434": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "172",
+      "published": "2026-07-16",
+      "title": "Local Budget Circular No. 172"
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=category&id=338": {
+      "agency": null,
+      "first_seen": null,
+      "number": null,
+      "published": null,
+      "title": ""
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=category&id=382": {
+      "agency": null,
+      "first_seen": null,
+      "number": null,
+      "published": null,
+      "title": ""
+    },
+    "https://www.dbm.gov.ph/index.php/local-budget-circulars?view=category&id=434": {
+      "agency": null,
+      "first_seen": null,
+      "number": null,
+      "published": null,
+      "title": ""
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2007/Circular-Letter/CIRCULAR-LETTER-NO-2007-6.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2007-6",
+      "published": null,
+      "title": "Circular Letter No. 2007-6"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2008/Circular%20Letter/CL2008-1/cl_2008-1.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2008-1",
+      "published": null,
+      "title": "Circular Letter No. 2008-1"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2008/Circular%20Letter/CL2008-10/cl2008-10.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2008-10",
+      "published": null,
+      "title": "Circular Letter No. 2008-10"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2008/Circular%20Letter/CL2008-11/cl_2008-11.pdf.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2008-11",
+      "published": null,
+      "title": "Circular Letter No. 2008-11"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2008/Circular%20Letter/CL2008-2/cl_2008-2.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2008-2",
+      "published": null,
+      "title": "Circular Letter No. 2008-2"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2008/Circular%20Letter/CL2008-3/pg1.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2008-3",
+      "published": null,
+      "title": "Circular Letter No. 2008-3"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2008/Circular%20Letter/CL2008-4/cl2008-4.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2008-4",
+      "published": null,
+      "title": "Circular Letter No. 2008-4"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2008/Circular%20Letter/CL2008-5/cl2008-5.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2008-5",
+      "published": null,
+      "title": "Circular Letter No. 2008-5"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2008/Circular%20Letter/CL2008-6/cl2008-6.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2008-6",
+      "published": null,
+      "title": "Circular Letter No. 2008-6"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2008/Circular%20Letter/CL2008-7/cl2008-7.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2008-7",
+      "published": null,
+      "title": "Circular Letter No. 2008-7"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2008/Circular%20Letter/CL2008-8/cl2008-8.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2008-8",
+      "published": null,
+      "title": "Circular Letter No. 2008-8"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2008/Circular%20Letter/CL2008-9/cl2008-9.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2008-9",
+      "published": null,
+      "title": "Circular Letter No. 2008-9"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2008/Local%20Budget%20Circular/LBC88/annex/annexes.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "88",
+      "published": null,
+      "title": "Annex"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2008/Local%20Budget%20Circular/LBC88/lbc88.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "88",
+      "published": null,
+      "title": "Local Budget Circular No. 88"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2008/Local%20Budget%20Circular/LBC89/lbc89.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "89",
+      "published": null,
+      "title": "Local Budget Circular No. 89"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2009/Circular Letter/CL2009-8/cl2009-8.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2009-8",
+      "published": null,
+      "title": "Circular Letter No. 2009-8"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2009/Circular%20Letter/CL2009-1/cl2009-1.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2009-1",
+      "published": null,
+      "title": "Circular Letter No. 2009-1"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2009/Circular%20Letter/CL2009-13/CL2009-13.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2009-13",
+      "published": null,
+      "title": "Circular Letter No. 2009-13"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2009/Circular%20Letter/CL2009-2/cl_2009-2.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2009-2",
+      "published": null,
+      "title": "Circular Letter No. 2009-2"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2009/Circular%20Letter/CL2009-3/cl2009-3.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2009-3",
+      "published": null,
+      "title": "Circular Letter No. 2009-3"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2009/Circular%20Letter/CL2009-4/cl2009-4.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2009-4",
+      "published": null,
+      "title": "Circular Letter No. 2009-4"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2009/Circular%20Letter/CL2009-5/cl_2009-5.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2009-5",
+      "published": null,
+      "title": "Circular Letter No. 2009-5"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2009/Circular%20Letter/CL2009-6/AnnexA.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2009-6",
+      "published": null,
+      "title": "Annex A"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2009/Circular%20Letter/CL2009-6/cl_2009-6.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2009-6",
+      "published": null,
+      "title": "Circular Letter No. 2009-6"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2009/Circular%20Letter/CL2009-9/cl2009-09.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2009-9",
+      "published": null,
+      "title": "Circular Letter No. 2009-9"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2009/Local%20Budget%20Circular/LBC2009-91/annexes.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "2009-91",
+      "published": null,
+      "title": "Annexes"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2009/Local%20Budget%20Circular/LBC2009-91/lbc_2009-91.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "2009-91",
+      "published": null,
+      "title": "Local Budget Circular No. 2009-91"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2009/Local%20Budget%20Circular/LBC2009-92/AnnexA1.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "2009-92",
+      "published": null,
+      "title": "Annex A1"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2009/Local%20Budget%20Circular/LBC2009-92/AnnexA2.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "2009-92",
+      "published": null,
+      "title": "Annex A2"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2009/Local%20Budget%20Circular/LBC2009-92/AnnexA3.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "2009-92",
+      "published": null,
+      "title": "Annex A3"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2009/Local%20Budget%20Circular/LBC2009-92/AnnexA4.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "2009-92",
+      "published": null,
+      "title": "Annex A4"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2009/Local%20Budget%20Circular/LBC2009-92/AnnexA5.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "2009-92",
+      "published": null,
+      "title": "Annex A5"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2009/Local%20Budget%20Circular/LBC2009-92/AnnexA6.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "2009-92",
+      "published": null,
+      "title": "Annex A6"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2009/Local%20Budget%20Circular/LBC2009-92/AnnexA7.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "2009-92",
+      "published": null,
+      "title": "Annex A7"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2009/Local%20Budget%20Circular/LBC2009-92/AnnexA8.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "2009-92",
+      "published": null,
+      "title": "Annex A8"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2009/Local%20Budget%20Circular/LBC2009-92/AnnexB.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "2009-92",
+      "published": null,
+      "title": "Annex B"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2009/Local%20Budget%20Circular/LBC2009-92/AnnexC1.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "2009-92",
+      "published": null,
+      "title": "Annex C1"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2009/Local%20Budget%20Circular/LBC2009-92/AnnexC2.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "2009-92",
+      "published": null,
+      "title": "Annex C2"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2009/Local%20Budget%20Circular/LBC2009-92/AnnexD.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "2009-92",
+      "published": null,
+      "title": "Annex D"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2009/Local%20Budget%20Circular/LBC2009-92/LBC2009-92.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "2009-92",
+      "published": null,
+      "title": "Local Budget Circular No. 2009-92"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2009/Local%20Budget%20Circular/LBC2009-92A/LBC2009-92A.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "2009-92A",
+      "published": null,
+      "title": "Local Budget Circular No. 2009-92A"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2009/Local%20Budget%20Circular/LBC2009-93/LBC2009-93.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "2009-93",
+      "published": null,
+      "title": "Local Budget Circular No. 2009-93"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2010/Circular%20Letter/CL2010-1/CL2010-1.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2010-1",
+      "published": null,
+      "title": "Circular Letter No. 2010-1"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2010/Circular%20Letter/CL2010-2/CL2010-2.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2010-2",
+      "published": null,
+      "title": "Circular Letter No. 2010-2"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2010/Circular%20Letter/CL2010-3/CL2010-3.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2010-3",
+      "published": null,
+      "title": "Circular Letter No. 2010-3"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2010/Circular%20Letter/CL2010-4/CL2010-4.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2010-4",
+      "published": null,
+      "title": "Circular Letter No. 2010-4"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2010/Circular%20Letter/CL2010-5/cl2010-5.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2010-5",
+      "published": null,
+      "title": "Circular Letter No. 2010-5"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2010/Circular%20Letter/CL2010-7/CL2010-7.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2010-7",
+      "published": null,
+      "title": "Circular Letter No. 2010-7"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2010/Circular%20Letter/CL2010-8/cl2010-8.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2010-8",
+      "published": null,
+      "title": "Circular Letter No. 2010-8"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2010/Circular%20Letter/CL2010-9/cl2010-9.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2010-9",
+      "published": null,
+      "title": "Circular Letter No. 2010-9"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2010/Local%20Budget%20Circular/LBC2010/LBC96.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "96",
+      "published": null,
+      "title": "Local Budget Circular No. 96"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2010/Local%20Budget%20Circular/LBC94/LBCNo.94.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "94",
+      "published": null,
+      "title": "Local Budget Circular No. 94"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2010/Local%20Budget%20Circular/LBC95/Annex%20A1.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "95",
+      "published": null,
+      "title": "Annex A1"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2010/Local%20Budget%20Circular/LBC95/Annex%20A2.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "95",
+      "published": null,
+      "title": "Annex A2"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2010/Local%20Budget%20Circular/LBC95/Annex%20A3.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "95",
+      "published": null,
+      "title": "Annex A3"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2010/Local%20Budget%20Circular/LBC95/Annex%20A4.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "95",
+      "published": null,
+      "title": "Annex A4"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2010/Local%20Budget%20Circular/LBC95/Annex%20A5.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "95",
+      "published": null,
+      "title": "Annex A5"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2010/Local%20Budget%20Circular/LBC95/Annex%20A6.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "95",
+      "published": null,
+      "title": "Annex A6"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2010/Local%20Budget%20Circular/LBC95/Annex%20A7.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "95",
+      "published": null,
+      "title": "Annex A7"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2010/Local%20Budget%20Circular/LBC95/Annex%20A8.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "95",
+      "published": null,
+      "title": "Annex A8"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2010/Local%20Budget%20Circular/LBC95/Annex%20B.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "95",
+      "published": null,
+      "title": "Annex B"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2010/Local%20Budget%20Circular/LBC95/LBC95.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "95",
+      "published": null,
+      "title": "Local Budget Circular No. 95"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2011/Circular Letter/CL2011-3/cl2011-3.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2011-3",
+      "published": null,
+      "title": "Circular Letter No. 2011-3"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2011/Circular%20Letter/CL2011-1/cl2011-1.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2011-1",
+      "published": null,
+      "title": "Circular Letter No. 2011-1"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2011/Circular%20Letter/CL2011-10/CL2011-10.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2011-10",
+      "published": null,
+      "title": "Circular Letter No. 2011-10"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2011/Circular%20Letter/CL2011-10/CL2011-10Manual.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2011-10",
+      "published": null,
+      "title": "LWD-MaCRO"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2011/Circular%20Letter/CL2011-11/CL2011-11.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2011-11",
+      "published": null,
+      "title": "Circular Letter No. 2011-11"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2011/Circular%20Letter/CL2011-12/CL2011-12.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2011-12",
+      "published": null,
+      "title": "Circular Letter No. 2011-12"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2011/Circular%20Letter/CL2011-13/CL2011-13.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2011-13",
+      "published": null,
+      "title": "Circular Letter No. 2011-13"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2011/Circular%20Letter/CL2011-14/CL2011-14.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2011-14",
+      "published": null,
+      "title": "Circular Letter No. 2011-14"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2011/Circular%20Letter/CL2011-15/CL%202011-15.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2011-15",
+      "published": null,
+      "title": "Circular Letter No. 2011-15"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2011/Circular%20Letter/CL2011-2/cl2011.2.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2011-2",
+      "published": null,
+      "title": "Circular Letter No. 2011-2"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2011/Circular%20Letter/CL2011-5/cl2011-5.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2011-5",
+      "published": null,
+      "title": "Circular Letter No. 2011-5"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2011/Circular%20Letter/CL2011-6/cl2011-6.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2011-6",
+      "published": null,
+      "title": "Circular Letter No. 2011-6"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2011/Circular%20Letter/CL2011-6A/cl2011-6a.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2011-6A",
+      "published": null,
+      "title": "Circular Letter No. 2011-6A"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2011/Circular%20Letter/CL2011-7/cl2011-7.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2011-7",
+      "published": null,
+      "title": "Circular Letter No. 2011-7"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2011/Circular%20Letter/CL2011-8/cl2011-8.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2011-8",
+      "published": null,
+      "title": "Circular Letter No. 2011-8"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2011/Circular%20Letter/CL2011-9/cl2011-9.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2011-9",
+      "published": null,
+      "title": "Circular Letter No. 2011-9"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2011/Local%20Budget%20Circular/LBC97/LBC97.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "97",
+      "published": null,
+      "title": "Local Budget Circular No. 97"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2011/Local%20Budget%20Circular/LBC98/LBC98.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "98",
+      "published": null,
+      "title": "Local Budget Circular No. 98"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2012/Circular%20Letter/CL 2012-9.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2012-9",
+      "published": null,
+      "title": "Circular Letter No. 2012-9"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2012/Circular%20Letter/CL%202012-10.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2012-10",
+      "published": null,
+      "title": "Circular Letter No. 2012-10"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2012/Circular%20Letter/CL%202012-12.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2012-12",
+      "published": null,
+      "title": "Circular Letter No. 2012-12"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2012/Circular%20Letter/CL%202012-13.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2012-13",
+      "published": null,
+      "title": "Circular Letter No. 2012-13"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2012/Circular%20Letter/CL%202012-7.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2012-7",
+      "published": null,
+      "title": "Circular Letter No. 2012-7"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2012/Circular%20Letter/CL16.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2012-16",
+      "published": null,
+      "title": "Circular Letter No. 2012-16"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2012/Circular%20Letter/CL2012-11.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2012-11",
+      "published": null,
+      "title": "Circular Letter No. 2012-11"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2012/Circular%20Letter/CL2012-19.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2012-19",
+      "published": null,
+      "title": "Circular Letter No. 2012-19"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2012/Circular%20Letter/CL2012-20.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2012-20",
+      "published": null,
+      "title": "Circular Letter No. 2012-20"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2012/Circular%20Letter/CL2012-3/cl2012-3.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2012-3",
+      "published": null,
+      "title": "Circular Letter No. 2012-3"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2012/Circular%20Letter/CL2012-6.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2012-6",
+      "published": null,
+      "title": "Circular Letter No. 2012-6"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2012/Circular%20Letter/cl2012-15.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2012-15",
+      "published": null,
+      "title": "Circular Letter No. 2012-15"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2012/Circular%20Letter/cl2012-2.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2012-2",
+      "published": null,
+      "title": "Circular Letter No. 2012-2"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2012/Local%20Budget%20Circular/LBC100-A.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "100",
+      "published": null,
+      "title": "Local Budget Circular No. 100-A"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2012/Local%20Budget%20Circular/LBC100.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "100",
+      "published": null,
+      "title": "Local Budget Circular No. 100"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2012/Local%20Budget%20Circular/LBC101.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "101",
+      "published": null,
+      "title": "Local Budget Circular No. 101"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2012/Local%20Budget%20Circular/LBC99.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "99",
+      "published": null,
+      "title": "Local Budget Circular No. 99"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2013/Circular%20Letter/CL%20no.%202013-16A.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2013-16A",
+      "published": null,
+      "title": "Circular Letter No. 2013-16A"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2013/Circular%20Letter/CL-2013-10.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2013-10",
+      "published": null,
+      "title": "Circular Letter No. 2013-10"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2013/Circular%20Letter/CL2013-1.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2013-1",
+      "published": null,
+      "title": "Circular Letter No. 2013-1"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2013/Circular%20Letter/CL2013-11.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2013-11",
+      "published": null,
+      "title": "Circular Letter No. 2013-11"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2013/Circular%20Letter/CL2013-12.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2013-12",
+      "published": null,
+      "title": "Circular Letter No. 2013-12"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2013/Circular%20Letter/CL2013-13.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2013-13",
+      "published": null,
+      "title": "Circular Letter No. 2013-13"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2013/Circular%20Letter/CL2013-14.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2013-14",
+      "published": null,
+      "title": "Circular Letter No. 2013-14"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2013/Circular%20Letter/CL2013-15.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2013-15",
+      "published": null,
+      "title": "Circular Letter No. 2013-15"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2013/Circular%20Letter/CL2013-16/Annex%20A.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2013-16",
+      "published": null,
+      "title": "Annex A"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2013/Circular%20Letter/CL2013-16/Annex%20B.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2013-16",
+      "published": null,
+      "title": "Annex B"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2013/Circular%20Letter/CL2013-16/Annex%20C.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2013-16",
+      "published": null,
+      "title": "Annex C"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2013/Circular%20Letter/CL2013-16/CL2013-16.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2013-16",
+      "published": null,
+      "title": "Circular Letter No. 2013-16"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2013/Circular%20Letter/CL2013-17.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2013-17",
+      "published": null,
+      "title": "Circular Letter No. 2013-17"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2013/Circular%20Letter/CL2013-18.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2013-18",
+      "published": null,
+      "title": "Circular Letter No. 2013-18"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2013/Circular%20Letter/CL2013-2.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2013-2",
+      "published": null,
+      "title": "Circular Letter No. 2013-2"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2013/Circular%20Letter/CL2013-3.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2013-3",
+      "published": null,
+      "title": "Circular Letter No. 2013-3"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2013/Circular%20Letter/CL2013-4.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2013-4",
+      "published": null,
+      "title": "Circular Letter No. 2013-4"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2013/Circular%20Letter/CL2013-5.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2013-5",
+      "published": null,
+      "title": "Circular Letter No. 2013-5"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2013/Circular%20Letter/CL2013-6.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2013-6",
+      "published": null,
+      "title": "Circular Letter No. 2013-6"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2013/Circular%20Letter/CL2013-7.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2013-7",
+      "published": null,
+      "title": "Circular Letter No. 2013-7"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2013/Circular%20Letter/CL2013-8.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2013-8",
+      "published": null,
+      "title": "Circular Letter No. 2013-8"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2013/Circular%20Letter/CL2013-9.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2013-9",
+      "published": null,
+      "title": "Circular Letter No. 2013-9"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2013/Local%20Budget%20Circular/LBC%20103.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "103",
+      "published": null,
+      "title": "Local Budget Circular No. 103"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2013/Local%20Budget%20Circular/LBC102.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "102",
+      "published": null,
+      "title": "Local Budget Circular No. 102"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2014/Budget%20Circular/BC%202014%20-%203.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2014-3",
+      "published": null,
+      "title": "Budget Circular No. 2014-3"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2014/Budget%20Circular/BC_2014-1.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2014-1",
+      "published": null,
+      "title": "Budget Circular No. 2014-1"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2014/Budget%20Circular/Budget%20Circular%20No.%202014-2.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2014-2",
+      "published": null,
+      "title": "Budget Circular No. 2014-2"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2014/Circular%20Letter/CL2013-16B.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2013-16",
+      "published": null,
+      "title": "Circular Letter No. 2013-16-B"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2014/Circular%20Letter/CL2014-2.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2014-2",
+      "published": null,
+      "title": "Circular Letter No. 2014-2"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2014/Circular%20Letter/CL2014-3.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2014-3",
+      "published": null,
+      "title": "Circular Letter No. 2014-3"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2014/Circular%20Letter/CL2014-4.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2014-4",
+      "published": null,
+      "title": "Circular Letter No. 2014-4"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2014/Circular%20Letter/CL2014-5.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2014-5",
+      "published": null,
+      "title": "Circular Letter No. 2014-5"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2014/Circular%20Letter/CL2014-6.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2014-6",
+      "published": null,
+      "title": "Circular Letter No. 2014-6"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2014/Circular%20Letter/CL2014-8A.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2014-8A",
+      "published": null,
+      "title": "Circular Letter No. 2014 -8A"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2014/Circular%20Letter/CL2014-9.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2014-9",
+      "published": null,
+      "title": "Circular Letter No. 2014-9"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2014/Circular%20Letter/Circular%20Letter%20%202014-8.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2014-8",
+      "published": null,
+      "title": "Circular Letter No. 2014-8 (SUCS)"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2014/Circular%20Letter/Circular%20Letter%202014%20-%201.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2014-1",
+      "published": null,
+      "title": "Circular Letter No. 2014-1"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2014/Circular%20Letter/Circular%20Letter%202014-7.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2014-7",
+      "published": null,
+      "title": "Circular Letter No. 2014-7 (OEO)"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2014/Circular%20Letter/Circular%20Letter%20No.%202014-10.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2014-10",
+      "published": null,
+      "title": "Circular Letter No. 2014 -10"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2014/Circular%20Letter/Circular-Letter-No-2014-11.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2014-11",
+      "published": null,
+      "title": "Circular Letter No. 2014 -11"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2014/Local%20Budget%20Circular/LBCNo.104.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "104",
+      "published": null,
+      "title": "Local Budget Circular No. 104"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2014/Local%20Budget%20Circular/LBCNo105.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "105",
+      "published": null,
+      "title": "Local Budget Circular No. 105"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2015/Budget%20Circular/BC2015-2_CNAFY%202015.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2015-2",
+      "published": null,
+      "title": "Budget Circular No. 2015-2"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2015/Budget%20Circular/BC_2015-1_Nov92015.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2015-1",
+      "published": null,
+      "title": "Budget Circular No. 2015-1"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2015/Circular%20Letter/CL2015-%2011_CONDUCT%20OF%20REVIEW%20FOR%20THE%20PROGRAM%20EXPENDITURE%20CLASSIFICATION%20%28PREXC%29%20FOR%20FY%202017%20BUDGET.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2015-11",
+      "published": null,
+      "title": "Circular Letter No. 2015-11"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2015/Circular%20Letter/CL2015-10_FRAUDULENT%20CALLS%20TO%20LGUS%20FOR%20NATIONAL%20GOVERNMENT%20PROJECTS%20%281%29.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2015-10",
+      "published": null,
+      "title": "Circular Letter No. 2015-10"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2015/Circular%20Letter/CL2015-12_Dec12015_Modification%20on%20Period%20for%20the%20Encashment%20of%20MDS%20Checks%20and%20Payment%20through%20Advice%20to%20Debit%20Account%20%28ADA%29%20under%20the%20MDS%20for%20the%20Rest%20of%20FY%202015.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2015-12",
+      "published": null,
+      "title": "Circular Letter No. 2015-12"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2015/Circular%20Letter/CL2015-2_WEBSITE%20FOR%20THE%20UNIFIED%20ACCOUNTS%20CODE%20STRUCTURE%20%28UACS%29.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2015-2",
+      "published": null,
+      "title": "Circular Letter No. 2015-2"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2015/Circular%20Letter/CL2015-3_Fora.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2015-3",
+      "published": null,
+      "title": "Circular Letter No. 2015-3"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2015/Circular%20Letter/CL2015-6_CONDUCT%20OF%20THE%20TIER%202%20TECHNICAL%20BUDGET%20HEARINGS%20FOR%20THE%20FY%202016%20BUDGET%20LEVELS.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2015-6",
+      "published": null,
+      "title": "Circular Letter No. 2015-6"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2015/Circular%20Letter/CL2015-9_SubmissionOfSummary.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2015-9",
+      "published": null,
+      "title": "Circular Letter No. 2015-9"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2015/Circular%20Letter/CL2015_4_FORA2015%20BUDGET%20EXECUTION%20AND%202016%20BUDGET%20PREPARATION%20%28PART%20II%29.pdf.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2015-4",
+      "published": null,
+      "title": "Circular Letter No. 2015-4"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2015/Circular%20Letter/CL2015_5_WORKSHOP%20ON%20THE%20REVISED%20GUIDELINES%20IN%20TAGGING%20GOVERNMENT%20EXPENDITURES%20FOR%20CLIMATE%20CHANGE%20IN%20THE%20BUDGET%20PROCESS.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2015-5",
+      "published": null,
+      "title": "Circular Letter No. 2015-5"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2015/Circular%20Letter/CL2015_7-MYOA.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2015-7",
+      "published": null,
+      "title": "Circular Letter No. 2015-7"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2015/Circular%20Letter/Circular%20Letter%20No.%202015%20-%201.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2015-1",
+      "published": null,
+      "title": "Circular Letter No. 2015-1"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2015/Circular%20Letter/Circular%20Letter%20No.%202015%20-%2013%20%281%29.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2015-13",
+      "published": null,
+      "title": "Circular Letter No. 2015-13"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2015/Circular%20Letter/Circular%20Letter%20No.%202015-8.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2015-8",
+      "published": null,
+      "title": "Circular Letter No. 2015-8"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2015/Local%20Budget%20Circular/LOCAL%20BUDGET%20CIRCULAR%20NO.%20106%20DATED%20JUNE%209,%202015%20-%20HANDBOOK%20ON%20THE%20PARTICIPATION%20OF%20CIVIL%20SOCIETY%20ORGANIZATIONS%20IN%20THE%20LOCAL%20BUDGET%20PROCESS.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "106",
+      "published": "2015-06-09",
+      "title": "Local Budget Circular No. 106"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2015/Local%20Budget%20Circular/LOCAL%20BUDGET%20CIRCULAR%20No.%20107.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "107",
+      "published": null,
+      "title": "Local Budget Circular No. 107"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2016/Budget%20Circular/BC%202016%20-%202%20-%20COMPUTATION%20AND%20FUNDING%20OF%20TERMINAL%20LEAVE%20BENEFITS%20AND%20MONETIZATION%20OF%20LEAVE%20CREDITS%20%281%29.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2016-2",
+      "published": null,
+      "title": "Budget Circular No. 2016-2"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2016/Budget%20Circular/BC%202016-1_PEI.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2016-1",
+      "published": null,
+      "title": "Budget Circular No. 2016-1"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2016/Budget%20Circular/BUDGET%20CIRCULAR%20NO.%202016%20-%203.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2016-3",
+      "published": null,
+      "title": "Budget Circular No. 2016-3"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2016/Budget%20Circular/BUDGET%20CIRCULAR%20NO.%202016%20-%204.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2016-4",
+      "published": null,
+      "title": "Budget Circular No. 2016-4"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2016/Budget%20Circular/BUDGET%20CIRCULAR%20NO.%202016%20-%205.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2016-5",
+      "published": null,
+      "title": "Budget Circular No. 2016-5"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2016/Budget%20Circular/BUDGET%20CIRCULAR%20NO.%202016%20-%206.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2016-6",
+      "published": null,
+      "title": "Budget Circular No. 2016-6"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2016/Budget%20Circular/BUDGET%20CIRCULAR%20NO.2016-7.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2016-7",
+      "published": null,
+      "title": "Budget Circular No. 2016-7"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2016/Circular%20Letter/CIRCULAR%20LETTER%20NO.%202016%20-%209_1.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2016-9",
+      "published": null,
+      "title": "Circular Letter No. 2016-9"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2016/Circular%20Letter/CL2016%20-3_IMPLEMENTATION%20OF%20THE%20DBM%20STRENGTHENING%20EFFORTS.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2016-3",
+      "published": null,
+      "title": "Circular Letter No. 2016-3"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2016/Circular%20Letter/CL2016-01_ANNUAL%20REVALIDATION%20OF%20IDENTIFICATION%20CARDS%20ISSUED%20TO%20AUTHORIZED%20AGENCY%20LIASON%20OFFICERS.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2016-1",
+      "published": null,
+      "title": "Circular Letter No. 2016-1"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2016/Circular%20Letter/CL2016-11.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2016-11",
+      "published": null,
+      "title": "Circular Letter No. 2016-11"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2016/Circular%20Letter/CL2016-No.%207_ADVISORY%20FOR%20ALL%20NATIONAL%20GOVERNMENT%20AGENCIES%20%28NGAS%29.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2016-7",
+      "published": null,
+      "title": "Circular Letter No. 2016-7"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2016/Circular%20Letter/CL2016No5_CONDUCT%20OF%20THE%20TIER%202%20TECHNICAL%20BUDGET%20HEARINGS%20FOR%20THE%20FY%202017%20BUDGET%20LEVELS.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2016-5",
+      "published": null,
+      "title": "Circular Letter No. 2016-5"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2016/Circular%20Letter/CL2016_WORKSHOP%20ON%20THE%20REVISED%20GUIDELINES%20IN%20TAGGING%20GOVERNMENT%20EXPENDITURES%20FOR%20CLIMATE%20CHANGE%20IN%20THE%20BUDGET%20PROCESS.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2016-4",
+      "published": null,
+      "title": "Circular Letter No. 2016-4"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2016/Circular%20Letter/CLNO.2016-6_GuidelineswithDBM.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2016-6",
+      "published": null,
+      "title": "Circular Letter No. 2016-6"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2016/Circular%20Letter/CLNo.2016-10.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2016-10",
+      "published": null,
+      "title": "Circular Letter No. 2016-10"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2016/Circular%20Letter/CLNo.8_RevisedOrgStructure.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2016-8",
+      "published": null,
+      "title": "Circular Letter No. 2016-8"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2016/Circular%20Letter/Circular%20Letter%20No.%202016%20-%202%20-%20Budget%20Fora%20on%20FY%202017%20Budget%20Preparation.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2016-2",
+      "published": null,
+      "title": "Circular Letter No. 2016-2"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2016/Local%20Budget%20Circular/LBC%20108%20s%202016.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "108",
+      "published": null,
+      "title": "Local Budget Circular No. 108"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2016/Local%20Budget%20Circular/LBC-110-INTERNAL%20AUDIT%20MANUAL%20FOR%20LOCAL%20GOVERNMENT%20UNITS%282016%29.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": null,
+      "published": null,
+      "title": "Download Manual"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2016/Local%20Budget%20Circular/LBC-111-MANUAL%20ON%20THE%20SETTING%20UP%20AND%20OPERATION%20OF%20LOCAL%20ECONOMIC%20ENTERPRISES.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": null,
+      "published": null,
+      "title": "Download Manual"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2016/Local%20Budget%20Circular/LBC-112-BOM-inside%20pages-correct%20paging-FINAL.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": null,
+      "published": null,
+      "title": "Download Manual"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2016/Local%20Budget%20Circular/LBC112_BudgetOperationManual.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "112",
+      "published": null,
+      "title": "Local Budget Circular No. 112"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2016/Local%20Budget%20Circular/LOCAL%20BUDGET%20CIRCULAR%20NO.%20110%20-%20INTERNAL%20AUDIT%20MANUAL%20FOR%20LOCAL%20GOVERNMENT%20UNITS.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "110",
+      "published": null,
+      "title": "Local Budget Circular No. 110"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2016/Local%20Budget%20Circular/LOCAL%20BUDGET%20CIRCULAR%20NO.%20111%20-%20MANUAL%20ON%20THE%20SETTING%20UP%20AND%20OPERATION%20OF%20LOCAL%20ECONOMIC%20ENTERPRISES%20%28LEEs%29.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "111",
+      "published": null,
+      "title": "Local Budget Circular No. 111"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2016/Local%20Budget%20Circular/Local%20Budget%20Circular%20No.%20109%20-%20GUIDELINES%20ON%20THE%20RELEASE%20AND%20UTILIZATION%20OF%20THE%20FY%202016%20LOCAL%20GOVERNMENT%20SUPPORT%20FUND%20%28LGSF%29-FINANCIAL%20ASSISTANCE%20TO%20LOCAL%20GOVERNMENT%20UNITS%20%28LGUs%29.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "109",
+      "published": null,
+      "title": "Local Budget Circular No. 109"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2017/Circular Letter/CIRCULAR LETTER NO.  2017 - 10.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2017-10",
+      "published": null,
+      "title": "Circular Letter No. 2017-10"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2017/Circular Letter/CIRCULAR LETTER NO.  2017 - 11.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2017-11",
+      "published": null,
+      "title": "Circular Letter No. 2017-11"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2017/Circular Letter/CIRCULAR LETTER NO.  2017 - 13.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2017-13",
+      "published": null,
+      "title": "Circular Letter No. 2017-13"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2017/Circular Letter/CIRCULAR LETTER NO.  2017 - 7.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2017-7",
+      "published": null,
+      "title": "Circular Letter No. 2017-7"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2017/Circular Letter/CIRCULAR LETTER NO.  2017 - 8.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2017-8",
+      "published": null,
+      "title": "Circular Letter No. 2017-8"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2017/Circular Letter/CIRCULAR LETTER NO. 2017 - 12 (1).pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2017-12",
+      "published": null,
+      "title": "Circular Letter No. 2017-12"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2017/Circular Letter/CIRCULAR LETTER NO. 2017 - 6.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2017-6",
+      "published": null,
+      "title": "Circular Letter No. 2017-6"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2017/Circular Letter/CIRCULAR LETTER NO. 2017 - 9.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2017-9",
+      "published": null,
+      "title": "Circular Letter No. 2017-9"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2017/Circular Letter/CL2017-1.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2017-1",
+      "published": null,
+      "title": "Circular Letter No. 2017-1"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2017/Circular Letter/CL2017-2.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2017-2",
+      "published": null,
+      "title": "Circular Letter No. 2017-2"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2017/Circular Letter/CL2017-3.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2017-3",
+      "published": null,
+      "title": "Circular Letter No. 2017-3"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2017/Circular Letter/CL2017-4.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2017-4",
+      "published": null,
+      "title": "Circular Letter No. 2017-4"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2017/Circular Letter/CL2017-5.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2017-5",
+      "published": null,
+      "title": "Circular Letter No. 2017-5"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2017/Circular%20Letter/CIRCULAR%20LETTER%20NO.%20%202017%20-%2014.pdf": {
+      "agency": "DBM Circular Letters",
+      "first_seen": null,
+      "number": "2017-14",
+      "published": null,
+      "title": "Circular Letter No. 2017-14"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2017/Local%20Budget%20Circular/LBC-No113.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "113",
+      "published": null,
+      "title": "Local Budget Circular No. 113"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2017/Local%20Budget%20Circular/LBC-No114.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "114",
+      "published": null,
+      "title": "Local Budget Circular No. 114"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2018/Budget%20Circular/BUDGET-CIRCULAR-NO-2018-1.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2018-1",
+      "published": null,
+      "title": "Budget Circular No. 2018-1"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2018/Local%20Budget%20Circular/LBC-No115.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "115",
+      "published": null,
+      "title": "Local Budget Circular No. 115"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2018/Local%20Budget%20Circular/LBC-No116-A.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "116",
+      "published": null,
+      "title": "Local Budget Circular No. 116-A"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2018/Local%20Budget%20Circular/LBC-No116.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "116",
+      "published": null,
+      "title": "Local Budget Circular No. 116"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2018/Local%20Budget%20Circular/LBC-No117-A.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "117",
+      "published": null,
+      "title": "Local Budget Circular No. 117-A"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2018/Local%20Budget%20Circular/LBC-No117.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "117",
+      "published": null,
+      "title": "Local Budget Circular No. 117"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2019/Budget-Circular/BUDGET-CIRCULAR-NO-2019-1.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2019-1",
+      "published": null,
+      "title": "Budget Circular No. 2019-1"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2019/Budget-Circular/BUDGET-CIRCULAR-NO-2019-2.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2019-2",
+      "published": null,
+      "title": "Budget Circular No. 2019-2"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2019/Budget-Circular/BUDGET-CIRCULAR-NO-2019-3.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2019-3",
+      "published": null,
+      "title": "Budget Circular No. 2019-3"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2019/Budget-Circular/BUDGET-CIRCULAR-NO.-2019-4.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2019-4",
+      "published": null,
+      "title": "Budget Circular No. 2019-4"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2019/Budget-Circular/BUDGET-CIRCULAR-NO.-2019-5.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2019-5",
+      "published": null,
+      "title": "Budget Circular No. 2019-5"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2019/Budget-Circular/BUGET-CIRCULAR-NO.-2019-6.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2019-6",
+      "published": null,
+      "title": "Budget Circular No. 2019-6"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2020/Budget-Circular/BUDGET-CIRCULAR-NO-2020-1.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2020-1",
+      "published": null,
+      "title": "Budget Circular No. 2020-1"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2020/Budget-Circular/BUDGET-CIRCULAR-NO-2020-2.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2020-2",
+      "published": null,
+      "title": "Budget Circular No. 2020-2"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2020/Budget-Circular/BUDGET-CIRCULAR-NO-2020-3.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2020-3",
+      "published": null,
+      "title": "Budget Circular No. 2020-3"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2020/Budget-Circular/BUDGET-CIRCULAR-NO-2020-4.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2020-4",
+      "published": null,
+      "title": "Budget Circular No. 2020-4"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2020/Budget-Circular/BUDGET-CIRCULAR-NO-2020-6.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2020-6",
+      "published": null,
+      "title": "Budget Circular No. 2020-6"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2021/Budget-Circular/BUDGET-CIRCULAR-NO-2021-1.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2021-1",
+      "published": null,
+      "title": "Budget Circular No. 2021-1"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2021/Budget-Circular/BUDGET-CIRCULAR-NO-2021-3-DATED-NOVEMBER-17-2021.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2021-3",
+      "published": null,
+      "title": "Budget Circular No. 2021-3"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2021/Budget-Circular/BUDGET-CIRCULAR-NO-2021-4-DATED-DECEMBER-28-2021.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2021-4",
+      "published": null,
+      "title": "Budget Circular No. 2021-4"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2021/Budget-Circular/BUDGET-CIRCULAR-NO-2021-5-DATED-DECEMBER-31-2021.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2021-5",
+      "published": null,
+      "title": "Budget Circular No. 2021-5"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2021/Budget-Circular/BUDGET-CIRCULAR-NO2021-2-DATED-AUGUST-25-2021.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2021-2",
+      "published": null,
+      "title": "Budget Circular No. 2021-2"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2022/Budget-Circular/BUDGET-CIRCULAR-NO-2022-05-DATED-DEC-28-2022.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2022-5",
+      "published": null,
+      "title": "Budget Circular No. 2022-5"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2022/Budget-Circular/BUDGET-CIRCULAR-NO-2022-1.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2022-1",
+      "published": null,
+      "title": "Budget Circular No. 2022-1"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2022/Budget-Circular/BUDGET-CIRCULAR-NO-2022-2-DATED-APRIL-5-2022.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2022-2",
+      "published": null,
+      "title": "Budget Circular No. 2022-2"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2022/Budget-Circular/BUDGET-CIRCULAR-NO-2022-3-DATED-OCTOBER-19-2022.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2022-3",
+      "published": null,
+      "title": "Budget Circular No. 2022-3"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2022/Budget-Circular/BUDGET-CIRCULAR-NO-2022-4-DATED-DECEMBER-20-2022.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2022-4",
+      "published": null,
+      "title": "Budget Circular No. 2022-4"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2022/Budget-Circular/Index-of-Occupational-Services-Occupational-Groups-Classes-and-Salary-Grades.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": null,
+      "published": null,
+      "title": "Index of Occupational Services, Occupational Groups, Classes and Salary Grades (IOS)"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2022/Budget-Circular/VOLUME-I.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": null,
+      "published": null,
+      "title": "VOLUME I"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2022/Budget-Circular/VOLUME-II.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": null,
+      "published": null,
+      "title": "VOLUME II"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2022/Budget-Circular/VOLUME-III.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": null,
+      "published": null,
+      "title": "VOLUME III"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2023/Budget-Circular/BUDGET-CIRCULAR-NO-2022-1A.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2022-1A",
+      "published": null,
+      "title": "Budget Circular No. 2022-1A"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2023/Budget-Circular/BUDGET-CIRCULAR-NO-2023-1-DATED-NOVEMBER-10-2023.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2023-1",
+      "published": null,
+      "title": "Budget Circular No. 2023-1"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2023/Budget-Circular/BUDGET-CIRCULAR-NO-2023-2-DECEMBER-13-2023.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2023-2",
+      "published": null,
+      "title": "Budget Circular No. 2023-2"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2023/Budget-Circular/BUDGET-CIRCULAR-NO-2023-3-DECEMBER-14-2023.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2023-3",
+      "published": null,
+      "title": "Budget Circular No. 2023-3"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2023/Local-Budget-Circular/ANNEX-B-LGU-User-Registration-Form.xlsx": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": null,
+      "published": null,
+      "title": "Download Annex B - LGU User Registration Form"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2023/Local-Budget-Circular/ANNEX-C-Report-on-Fund-Utilization.docx": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": null,
+      "published": null,
+      "title": "Download Annex C - Report on Fund Utilization and Status of Program/Project Implementation"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2023/Local-Budget-Circular/ANNEX-D-Project-Profile.docx": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": null,
+      "published": null,
+      "title": "Download Annex D - Project Profile/Proposal"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2023/Local-Budget-Circular/BOM-for-LGUs-2023-Edition-(2024-Reprinted)-For-Posting-in-DBM-Website.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": null,
+      "published": null,
+      "title": "Budget Operations Manual for Local Government Units (BOM for LGUS), 2023 Edition"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2023/Local-Budget-Circular/DRSL-Infoguide.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": null,
+      "published": null,
+      "title": "Download DRSL Info guide"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2023/Local-Budget-Circular/IAM-for-LGUs-2023-Edition.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": null,
+      "published": null,
+      "title": "Internal Audit Manual for Local Government Units (IAM for LGUs), 2023 Edition"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2023/Local-Budget-Circular/LOCAL-BUDGET-CIRCULAR-NO-149-DATED-JAN-10-2023.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "149",
+      "published": null,
+      "title": "Local Budget Circular No. 149"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2023/Local-Budget-Circular/LOCAL-BUDGET-CIRCULAR-NO-150-DATED-MAR-08-2023.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "150",
+      "published": null,
+      "title": "Download Local Budget Circular No. 150"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2023/Local-Budget-Circular/LOCAL-BUDGET-CIRCULAR-NO-151-DATED-MAR-30-2023.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "151",
+      "published": null,
+      "title": "Local Budget Circular No. 151"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2023/Local-Budget-Circular/LOCAL-BUDGET-CIRCULAR-NO-152-DATED-AUGUST-02-2023.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "152",
+      "published": null,
+      "title": "Local Budget Circular No. 152"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2023/Local-Budget-Circular/LOCAL-BUDGET-CIRCULAR-NO-153-DATED-AUGUST-31-2023-PHILSTAR.pdf": {
+      "agency": "DBM Local Budget Circulars",
+      "first_seen": null,
+      "number": "153",
+      "published": null,
+      "title": "Local Budget Circular No. 153"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2024/Budget-Circular/BUDGET-CIRCULAR-NO-2024-1-DATED-APRIL-4-2024.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2024-1",
+      "published": null,
+      "title": "Budget Circular No. 2024-1"
+    },
+    "https://www.dbm.gov.ph/wp-content/uploads/Issuances/2024/Budget-Circular/BUDGET-CIRCULAR-NO-2024-2-DATED-AUGUST-2-2024.pdf": {
+      "agency": "DBM Budget Circulars",
+      "first_seen": null,
+      "number": "2024-2",
+      "published": null,
+      "title": "Budget Circular No. 2024-2"
+    },
+    "https://www.dof.gov.ph/resources/issuances/": {
+      "agency": null,
+      "first_seen": null,
+      "number": null,
+      "published": null,
+      "title": ""
+    }
+  },
+  "last_checked_utc": "2026-11-11T07:03:32.326358+00:00",
+  "version": 2
+}
