@@ -1,0 +1,10 @@
+{
+  "name": "PH-Gov Issuance Watch",
+  "short_name": "PH-Gov Watch",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f7f5",
+  "theme_color": "#123b32",
+  "description": "Mobile tracker for Philippine government circulars and official issuances.",
+  "orientation": "portrait"
+}
